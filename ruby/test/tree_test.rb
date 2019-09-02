@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'tree'
+require_relative '../tree'
 
 class TreeTest < Test::Unit::TestCase
   def setup
